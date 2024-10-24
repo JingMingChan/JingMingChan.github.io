@@ -1,0 +1,1 @@
+For applink redirect only
