@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.voyager_redirect_2",
-    "sha256_cert_fingerprints":
-    ["FF:78:57:EA:87:7F:8F:48:41:96:5B:01:DE:9E:44:65:69:71:1B:D7:D8:EA:B4:15:8F:36:00:5C:AE:74:9C:EF"]
-  }
-}]
